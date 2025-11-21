@@ -1,0 +1,6 @@
+[submodule "glitchtip-frontend"]
+	path = glitchtip-frontend
+	url = https://gitlab.com/glitchtip/glitchtip-frontend
+[submodule "glitchtip-backend"]
+	path = glitchtip-backend
+	url = https://gitlab.com/glitchtip/glitchtip-backend
