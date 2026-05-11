@@ -1,16 +1,24 @@
+<!-- 
 Review this checklist before submitting.
+-->
 
-- [ ] GitLab issues are for bug reports and feature requests. If this is a help request, post on [Gitter](https://gitter.im/GlitchTip/community). If you have or want paid support, please use the chat widget on https://glitchtip.com.
-- [ ] Document reproduction steps. Be as detailed as possible. Use only the latest version of GlitchTip.
-- [ ] If applicable, try to reproduce the problem on https://app.glitchtip.com
-- [ ] Be considerate of the reviewer of your issue and their time. They are likely unpaid. GlitchTip is open source and comes with absolutely no warranty.
-- [ ] Check existing issues first. :+1: the issue to show interest.
-- [ ] Do not open issue related to automated security scanners or other static anaysis tool. We use Renovate and GitLab for this. Instead, ask on [Gitter](https://gitter.im/GlitchTip/community) how you can help get involved in the project and make the changes you wish to see.
+- [ ] **Is this a Help Request?** GitLab issues are for bug reports and feature requests. For configuration help or "how-to" questions, please use [Gitter](https://app.gitter.im/#/room/#GlitchTip_community:gitter.im).
+- [ ] **Security Scanners:** Do not open issues for automated security scanner results. We use Renovate and internal tools. If you want to fix a vulnerability, please open a Merge Request.
+- [ ] **Reproduction:** Document detailed steps to reproduce the issue on the latest version of GlitchTip. If possible, verify if it happens on https://app.glitchtip.com.
+- [ ] **Expectations:** GlitchTip is open source and community-supported. Issues are triaged based on severity and available resources.
+- [ ] **Prioritization:** Priority is given to issues that include a proposed solution (Merge Request) or are reported by [License holders](https://glitchtip.com/pricing/).
 
 ## Description
+What did you expect to happen? What happened instead?
 
-What do you expect to see or happen. What happens instead?
+## Steps to Reproduce
+1.
+2.
+3.
 
-## Proposed Solution(s)
+## Proposed Solution / Resolution
+GlitchTip relies on contributions to improve. How can you help resolve this issue?
 
-What do you think should be changed? This could be a code change or a documentation change. Are you interested in doing this change yourself? Do you need assistance getting up to speed on how to develop for GlitchTip?
+- [ ] I will investigate and submit a Merge Request.
+- [ ] I have an active [License](https://glitchtip.com) (Enterprise or Individual) or donate.
+- [ ] I am reporting this for the community. (I understand a fix depends on maintainer availability).
