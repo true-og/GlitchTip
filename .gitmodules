@@ -1,6 +1,6 @@
 [submodule "glitchtip-frontend"]
 	path = glitchtip-frontend
-	url = https://github.com/true-og/glitchtip-frontend
+	url = https://git.trueog.net/trueog/glitchtip-frontend
 [submodule "glitchtip-backend"]
 	path = glitchtip-backend
-	url = https://github.com/true-og/glitchtip-backend
+	url = https://git.trueog.net/trueog/glitchtip-backend
